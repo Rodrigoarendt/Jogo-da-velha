@@ -1,2 +1,2 @@
 # Jogo-da-velha
-Joga da velha em HTML
+Inicialmente e para ser um jogo da velha com html css e style
